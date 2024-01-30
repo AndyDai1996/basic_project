@@ -16,6 +16,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 @MapperScan("com.hxh.basic.project.mapper")
 public class BasicProjectApplication {
 
+    //测试
     public static void main(String[] args) {
         SpringApplication.run(BasicProjectApplication.class, args);
     }
